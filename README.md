@@ -8,20 +8,20 @@ The dataset is a SaaS churn analytics dataset containing 5 tables:
 https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset
 
 ## Key Performance Indicators (KPIs)
--Churn Rate (%)
--Trial vs Non-Trial Churn Rate
--Churn Rate by Plan Tier / Country / Industry
--MRR / ARR Distribution
--Refund Rate & Average Refund Amount by Churn Reason
--Support Metrics
--Avg resolution time
--Avg satisfaction score
+- Churn Rate (%)
+- Trial vs Non-Trial Churn Rate
+- Churn Rate by Plan Tier / Country / Industry
+- MRR / ARR Distribution
+- Refund Rate & Average Refund Amount by Churn Reason
+- Support Metrics
+- Avg resolution time
+- Avg satisfaction score
 
 ## Tools Used
--Python
--NumPy
--Pandas
--Matplotlib
--Seaborn 
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn 
 
  
