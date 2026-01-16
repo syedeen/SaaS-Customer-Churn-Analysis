@@ -1,9 +1,6 @@
 # SaaS-Customer-Churn-Analysis
 
 ## Overview
-# Sales Performance Analytics Dashboard (Power BI)
-
-## Overview
 Customer churn is causing revenue leakage in RavenStack’s subscription business. This project analyzes customer segments, subscription behavior, product usage patterns, and churn risk signals to identify the key drivers of churn and provide actionable recommendations to improve retention and protect recurring revenue.
 
 ## Data Source
