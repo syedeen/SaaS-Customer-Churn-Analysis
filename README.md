@@ -5,7 +5,8 @@ Customer churn is causing revenue leakage in RavenStack’s subscription busines
 
 ## Data Source
 The dataset is a SaaS churn analytics dataset containing 5 tables:
-https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset
+- https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset
+- CSV files used in this project are included in `/data/`.
 
 ## Key Performance Indicators (KPIs)
 - Churn Rate (%)
@@ -22,6 +23,12 @@ https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn 
+- Seaborn
+
+## Usage
+```bash
+pip install -r requirements.txt
+
+
 
  
