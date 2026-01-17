@@ -28,6 +28,14 @@ The dataset is a SaaS churn analytics dataset containing 5 tables:
 ## Usage
 ```bash
 pip install -r requirements.txt
+```
+
+## Preview
+<div>
+ <img src="images/img1.png" height="500" width="500">
+ <img src="images/img2.png" height="500" width="500">
+ <img src="images/img3.png" height="500" width="500">
+</div>
 
 
 
